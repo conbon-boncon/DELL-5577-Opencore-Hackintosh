@@ -22,6 +22,6 @@ Everything works, some right after install and some after troubleshooting, somet
 
 ### What doesn't work
 
-Dedicated graphic card, no support for dedicated graphics card after High Sierra.
-Touch pad doesn't work. Physical keys must be used.
+No support for dedicated graphics card after High Sierra.
+Touch pad taps not working, physical keys must be used. 
 
